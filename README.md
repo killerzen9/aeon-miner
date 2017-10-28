@@ -1,5 +1,5 @@
 # XMRig for AEON
-:exclamation: :exclamation: :exclamation: **This repository now deprecated, please use [XMRig](https://github.com/xmrig/xmrig) with option `-a cryptonight-lite`.** :exclamation: :exclamation: :exclamation:
+
 
 XMRig is high performance [AEON](http://www.aeon.cash/) CPU miner, with the official full Windows support.
 Based on cpuminer-multi with heavy optimizations/rewrites and removing a lot of legacy code.
